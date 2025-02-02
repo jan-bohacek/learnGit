@@ -1,4 +1,4 @@
-# Leaning git and stuffs
+# Learning git and stuffs
 
 There's gonna be bunch of things i'm gonna do here.
 
