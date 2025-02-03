@@ -11,3 +11,5 @@ Now it's all merged and i can start adding scripts into the folder.
 I'll just try the ammend cmd.
 
 Now i'm making some changes here.
+
+Note: I'm adding new feature.
