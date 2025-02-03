@@ -9,3 +9,5 @@ Now i've added something, just to try the pull command.
 Now it's all merged and i can start adding scripts into the folder.
 
 I'll just try the ammend cmd.
+
+Now i'm making some changes here.
